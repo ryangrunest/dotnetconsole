@@ -12,3 +12,4 @@
 /Users/1250220/dev/test/dotnetconsole/obj/Debug/net8.0/dotnetconsole.pdb
 /Users/1250220/dev/test/dotnetconsole/obj/Debug/net8.0/dotnetconsole.genruntimeconfig.cache
 /Users/1250220/dev/test/dotnetconsole/obj/Debug/net8.0/ref/dotnetconsole.dll
+/Users/1250220/dev/test/dotnetconsole/obj/Debug/net8.0/dotnetconsole.sourcelink.json
