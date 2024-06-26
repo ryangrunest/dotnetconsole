@@ -1,0 +1,14 @@
+/Users/1250220/dev/test/dotnetconsole/bin/Debug/net8.0/dotnetconsole
+/Users/1250220/dev/test/dotnetconsole/bin/Debug/net8.0/dotnetconsole.deps.json
+/Users/1250220/dev/test/dotnetconsole/bin/Debug/net8.0/dotnetconsole.runtimeconfig.json
+/Users/1250220/dev/test/dotnetconsole/bin/Debug/net8.0/dotnetconsole.dll
+/Users/1250220/dev/test/dotnetconsole/bin/Debug/net8.0/dotnetconsole.pdb
+/Users/1250220/dev/test/dotnetconsole/obj/Debug/net8.0/dotnetconsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/1250220/dev/test/dotnetconsole/obj/Debug/net8.0/dotnetconsole.AssemblyInfoInputs.cache
+/Users/1250220/dev/test/dotnetconsole/obj/Debug/net8.0/dotnetconsole.AssemblyInfo.cs
+/Users/1250220/dev/test/dotnetconsole/obj/Debug/net8.0/dotnetconsole.csproj.CoreCompileInputs.cache
+/Users/1250220/dev/test/dotnetconsole/obj/Debug/net8.0/dotnetconsole.dll
+/Users/1250220/dev/test/dotnetconsole/obj/Debug/net8.0/refint/dotnetconsole.dll
+/Users/1250220/dev/test/dotnetconsole/obj/Debug/net8.0/dotnetconsole.pdb
+/Users/1250220/dev/test/dotnetconsole/obj/Debug/net8.0/dotnetconsole.genruntimeconfig.cache
+/Users/1250220/dev/test/dotnetconsole/obj/Debug/net8.0/ref/dotnetconsole.dll
